@@ -15,7 +15,7 @@ body {
     padding-left: 20px;
 }
 
-.tituloCentralizado {
+.titulo-principal {
     text-align: center;
 }
 
@@ -47,6 +47,6 @@ ul {
     margin-right: 15%;
 }
 
-.imagemBeneficios {
+.imagem-beneficios {
     width: 50%;
 }
